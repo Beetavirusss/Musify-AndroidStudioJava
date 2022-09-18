@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/drawable/box.xml" value="0.1765" />
+        <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2555" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/drawable/logo.xml" value="0.2375" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_account.xml" value="0.25" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_add_play_list.xml" value="0.25" />
@@ -13,7 +14,7 @@
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_liked2.xml" value="0.25" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_listen_later.xml" value="0.25" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_playlist_artists1.xml" value="0.264" />
+        <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_playlist_artists1.xml" value="0.1" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_playlist_artists2.xml" value="0.2359375" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_profile.xml" value="0.2359375" />
         <entry key="..\:/Users/abeeh/AndroidStudioProjects/i190742/app/src/main/res/layout/activity_recent_searches.xml" value="0.25" />

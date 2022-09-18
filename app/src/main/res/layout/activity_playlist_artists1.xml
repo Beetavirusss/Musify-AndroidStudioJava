@@ -69,7 +69,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.261"
-        app:srcCompat="@drawable/whiteplaylist" />
+        app:srcCompat="@drawable/playlist" />
 
     <ImageView
         android:id="@+id/imageView17"
@@ -81,7 +81,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.261"
-        app:srcCompat="@drawable/whiteplaylist" />
+        app:srcCompat="@drawable/playlist" />
 
     <ImageView
         android:id="@+id/imageView16"
@@ -92,7 +92,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.261"
-        app:srcCompat="@drawable/whiteplaylist" />
+        app:srcCompat="@drawable/playlist" />
 
     <TextView
         android:id="@+id/textView12"
